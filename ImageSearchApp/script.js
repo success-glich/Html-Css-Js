@@ -1,5 +1,4 @@
 
-//make sure to 
 const accessKey = "used-your-access key from unsplash.com";
 
 import accessKey from "./api-token";
